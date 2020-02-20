@@ -1,0 +1,331 @@
+<resources>
+    <string name="app_name">A3 Connect</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Student Resources</string>
+    <string name="tab_text_3">My Info</string>
+
+    <!-- Calendar name for the Fall 2k17  -->
+    <string name="calendar_Fall2k17">Fall 2017 - Summer 2018</string>
+
+    <!-- Calendar name for the Fall 2k18  -->
+    <string name="calendar_Fall2k18">Fall 2018 - Summer 2019</string>
+
+    <!-- Calendar name for the Fall 2k19 -->
+    <string name="calendar_Fall2k19">Fall 2019 - Summer 2020</string>
+
+    <!-- Calendar name for the Fall 2k20 -->
+    <string name="calendar_Fall2k20">Fall 2020 - Summer 2021</string>
+
+    <string name="date">Date</string>
+    <string name="event">Event</string>
+    <string name="cermony">No commencement ceremonies are held in the summer</string>
+
+
+    <!-- Fall 2k17 date details  -->
+
+    <string name="date1_2k17">Mon, Aug 21, 2017</string>
+    <string name="date2_2k17">Mon, Sept 4,2017</string>
+    <string name="date3_2k17">Mon, Sept 11,2017</string>
+    <string name="date4_2k17">Thur - Sat, Nov 23 - 25, 2017</string>
+    <string name="date5_2k17">Sat, Dec 2, 2017</string>
+    <string name="date6_2k17">Mon - Sat, Dec 4 - Dec 9, 2017</string>
+    <string name="date7_2k17">Tue, Dec 12, 2017</string>
+    <string name="date8_2k17">Thur, Dec 14, 2017</string>
+    <string name="date9_2k17">Fri, Dec 15, 2017</string>
+
+
+    <!-- Fall 2k17 event details -->
+    <string name="event1_2k17">New Student Orientation week All Regular session classes begin</string>
+    <string name="event2_2k17">Labor day - Campus holiday</string>
+    <string name="event3_2k17">Special Session classes begin</string>
+    <string name="event4_2k17">Thanksgiving - Campus holiday</string>
+    <string name="event5_2k17">Last day of classes</string>
+    <string name="event6_2k17">Final Exam period</string>
+    <string name="event7_2k17">Final grades due to Registrar</string>
+    <string name="event8_2k17">Commencement Cermony</string>
+    <string name="event9_2k17">All Fall session ends</string>
+
+
+    <!-- Spring 2k18 details  -->
+    <string name="date1_2k18">Wed, Dec 13, 2017</string>
+    <string name="date2_2k18">Sat, Jan 6, 2018</string>
+    <string name="date3_2k18">Mon, Jan 8, 2018</string>
+    <string name="date4_2k18">Mon, Jan 15, 2018</string>
+    <string name="date5_2k18">Mon, Feb 5, 2018</string>
+    <string name="date6_2k18">Mon, Feb 19, 2018</string>
+    <string name="date7_2k18">Mon - Sat, Mar 19 - 24, 2018</string>
+    <string name="date8_2k18">Sat, Apr 28, 2018</string>
+    <string name="date9_2k18">Mon - Sat, Apr 30 - May 5, 2018</string>
+    <string name="date10_2k18">Tue, May 8, 2018</string>
+    <string name="date11_2k18">Thur, May 10, 2018</string>
+    <string name="date12_2k18">Fri, May 11, 2018</string>
+
+    <!-- Spring 2k18 event details -->
+    <string name="event1_2k18">Intersession classes begin</string>
+    <string name="event2_2k18">Intersession classes end</string>
+    <string name="event3_2k18">All Regular session classes begin</string>
+    <string name="event4_2k18">ML King Day - Campus holiday</string>
+    <string name="event5_2k18">Special Session classes begin</string>
+    <string name="event6_2k18">President\'s Day - Campus holiday</string>
+    <string name="event7_2k18">Spring Break ( no classes) </string>
+    <string name="event8_2k18">Last day of classes</string>
+    <string name="event9_2k18">Final Exam period</string>
+    <string name="event10_2k18">Final grades due to Registrar</string>
+    <string name="event11_2k18">Commencement Cermony</string>
+    <string name="event12_2k18">All Spring session ends</string>
+
+
+    <!-- Summer 2k18 details  -->
+    <string name="date1_Sum2k18">Mon, May 28, 2018</string>
+    <string name="date2_Sum2k18">Tue, May 29, 2018</string>
+    <string name="date3_Sum2k18">Sat, June 30, 2018</string>
+    <string name="date4_Sum2k18">Mon, July 2, 2018</string>
+    <string name="date5_Sum2k18">Wed, July 4, 2018</string>
+    <string name="date6_Sum2k18">Sat, Aug 4, 2018</string>
+    <string name="date7_Sum2k18">Tue, Aug 7, 2018</string>
+
+
+    <!-- Summer 2k18 event details -->
+    <string name="event1_Sum2k18">Memorial Day - Campus holiday</string>
+    <string name="event2_Sum2k18">10-week session and 1st 5-week session classes begin</string>
+    <string name="event3_Sum2k18">1st 5-week session ends</string>
+    <string name="event4_Sum2k18">2nd 5-week session classes begin</string>
+    <string name="event5_Sum2k18">Independence Day - Camous holiday</string>
+    <string name="event6_Sum2k18">10-week and 2nd 5-week sessions end</string>
+    <string name="event7_Sum2k18">All final grades due to Registrar </string>
+
+
+    <!-- Fall 2k18 date details  -->
+
+    <string name="date1_Fall2k18">Mon, Aug 20, 2018</string>
+    <string name="date2_Fall2k18">Mon, Sept 3,2018</string>
+    <string name="date3_Fall2k18">Mon, Sept 10,2018</string>
+    <string name="date4_Fall2k18">Thur - Sat, Nov 22 - 24, 2018</string>
+    <string name="date5_Fall2k18">Sat, Dec 1, 2018</string>
+    <string name="date6_Fall2k18">Mon - Sat, Dec 3 - 8, 2018</string>
+    <string name="date7_Fall2k18">Tue, Dec 11, 2018</string>
+    <string name="date8_Fall2k18">Thur, Dec 13, 2018</string>
+    <string name="date9_Fall2k18">Fri, Dec 14, 2018</string>
+
+
+    <!-- Fall 2k18 event details -->
+    <string name="event1_Fall2k18">All Regular session classes begin</string>
+    <string name="event2_Fall2k18">Labor day - Campus holiday</string>
+    <string name="event3_Fall2k18">Special Session classes begin</string>
+    <string name="event4_Fall2k18">Thanksgiving - Campus holiday</string>
+    <string name="event5_Fall2k18">Last day of classes</string>
+    <string name="event6_Fall2k18">Final Exam period</string>
+    <string name="event7_Fall2k18">Final grades due to Registrar</string>
+    <string name="event8_Fall2k18">Commencement Cermony</string>
+    <string name="event9_Fall2k18">All Fall session ends</string>
+
+
+    <!-- Spring 2k19 details  -->
+    <string name="date1_Spring2k19">Wed, Dec 12, 2018</string>
+    <string name="date2_Spring2k19">Sat, Jan 5, 2019</string>
+    <string name="date3_Spring2k19">Mon, Jan 7, 2019</string>
+    <string name="date4_Spring2k19">Mon, Jan 21, 2019</string>
+    <string name="date5_Spring2k19">Mon, Feb 4, 2019</string>
+    <string name="date6_Spring2k19">Mon, Feb 18, 2019</string>
+    <string name="date7_Spring2k19">Mon - Sat, Mar 18 - 23, 2019</string>
+    <string name="date8_Spring2k19">Sat, Apr 27, 2019</string>
+    <string name="date9_Spring2k19">Mon - Sat, Apr 29 - May 4, 2019</string>
+    <string name="date10_Spring2k19">Tue, May 7, 2019</string>
+    <string name="date11_Spring2k19">Thur, May 9, 2019</string>
+    <string name="date12_Spring2k19">Fri, May 10, 2019</string>
+
+    <!-- Spring 2k19 event details -->
+    <string name="event1_Spring2k19">Intersession classes begin</string>
+    <string name="event2_Spring2k19">Intersession classes end</string>
+    <string name="event3_Spring2k19">All Regular session classes begin</string>
+    <string name="event4_Spring2k19">ML King Day - Campus holiday</string>
+    <string name="event5_Spring2k19">Special Session classes begin</string>
+    <string name="event6_Spring2k19">President\'s Day - Campus holiday</string>
+    <string name="event7_Spring2k19">Spring Break ( no classes) </string>
+    <string name="event8_Spring2k19">Last day of classes</string>
+    <string name="event9_Spring2k19">Final Exam period</string>
+    <string name="event10_Spring2k19">Final grades due to Registrar</string>
+    <string name="event11_Spring2k19">Commencement Cermony</string>
+    <string name="event12_Spring2k19">All Spring session ends</string>
+
+
+    <!-- Summer 2k19 details  -->
+    <string name="date1_Sum2k19">Mon, May 27, 2019</string>
+    <string name="date2_Sum2k19">Tue, May 28, 2019</string>
+    <string name="date3_Sum2k19">Sat, June 29, 2019</string>
+    <string name="date4_Sum2k19">Mon, July 1, 2019</string>
+    <string name="date5_Sum2k19">Thur, July 4, 2019</string>
+    <string name="date6_Sum2k19">Sat, Aug 3, 2019</string>
+    <string name="date7_Sum2k19">Tue, Aug 6, 2019</string>
+
+
+    <!-- Summer 2k19 event details -->
+    <string name="event1_Sum2k19">Memorial Day - Campus holiday</string>
+    <string name="event2_Sum2k19">10-week session and 1st 5-week session classes begin</string>
+    <string name="event3_Sum2k19">1st 5-week session ends</string>
+    <string name="event4_Sum2k19">2nd 5-week session classes begin</string>
+    <string name="event5_Sum2k19">Independence Day - Camous holiday</string>
+    <string name="event6_Sum2k19">10-week and 2nd 5-week sessions end</string>
+    <string name="event7_Sum2k19">All final grades due to Registrar </string>
+
+
+    <!-- Fall 2k19 date details  -->
+
+    <string name="date1_Fall2k19">Mon, Aug 26, 2019</string>
+    <string name="date2_Fall2k19">Mon, Sept 2,2019</string>
+    <string name="date3_Fall2k19">Mon, Sept 16,2019</string>
+    <string name="date4_Fall2k19">Thur - Sat, Nov 28 - 30, 2019</string>
+    <string name="date5_Fall2k19">Sat, Dec 7, 2019</string>
+    <string name="date6_Fall2k19">Mon - Sat, Dec 9 - Dec 14, 2019</string>
+    <string name="date7_Fall2k19">Tue, Dec 17, 2019</string>
+    <string name="date8_Fall2k19">Thur, Dec 19, 2019</string>
+    <string name="date9_Fall2k19">Fri, Dec 20, 2019</string>
+
+
+    <!-- Fall 2k19 event details -->
+    <string name="event1_Fall2k19">All Regular session classes begin</string>
+    <string name="event2_Fall2k19">Labor day - Campus holiday</string>
+    <string name="event3_Fall2k19">Special Session classes begin</string>
+    <string name="event4_Fall2k19">Thanksgiving - Campus holiday</string>
+    <string name="event5_Fall2k19">Last day of classes</string>
+    <string name="event6_Fall2k19">Final Exam period</string>
+    <string name="event7_Fall2k19">Final grades due to Registrar</string>
+    <string name="event8_Fall2k19">Commencement Cermony</string>
+    <string name="event9_Fall2k19">All Fall session ends</string>
+
+
+    <!-- Spring 2k20 details  -->
+    <string name="date1_Spring2k20">Wed, Dec 18, 2019</string>
+    <string name="date2_Spring2k20">Sat, Jan 11, 2020</string>
+    <string name="date3_Spring2k20">Mon, Jan 13, 2020</string>
+    <string name="date4_Spring2k20">Mon, Jan 20, 2020</string>
+    <string name="date5_Spring2k20">Mon, Feb 3, 2020</string>
+    <string name="date6_Spring2k20">Mon, Feb 17, 2020</string>
+    <string name="date7_Spring2k20">Mon - Sat, Mar 16 - 21, 2020</string>
+    <string name="date8_Spring2k20">Sat, May 2, 2020</string>
+    <string name="date9_Spring2k20">Mon - Sat, May 4 - 9, 2020</string>
+    <string name="date10_Spring2k20">Tue, May 12, 2020</string>
+    <string name="date11_Spring2k20">Thur, May 14, 2020</string>
+    <string name="date12_Spring2k20">Fri, May 15, 2020</string>
+
+    <!-- Spring 2k20 event details -->
+    <string name="event1_Spring2k20">Intersession classes begin</string>
+    <string name="event2_Spring2k20">Intersession classes end</string>
+    <string name="event3_Spring2k20">All Regular session classes begin</string>
+    <string name="event4_Spring2k20">ML King Day - Campus holiday</string>
+    <string name="event5_Spring2k20">Special Session classes begin</string>
+    <string name="event6_Spring2k20">President\'s Day - Campus holiday</string>
+    <string name="event7_Spring2k20">Spring Break ( no classes) </string>
+    <string name="event8_Spring2k20">Last day of classes</string>
+    <string name="event9_Spring2k20">Final Exam period</string>
+    <string name="event10_Spring2k20">Final grades due to Registrar</string>
+    <string name="event11_Spring2k20">Commencement Cermony</string>
+    <string name="event12_Spring2k20">All Spring session ends</string>
+
+
+    <!-- Summer 2k20 details  -->
+    <string name="date1_Sum2k20">Mon, May 25, 2020</string>
+    <string name="date2_Sum2k20">Tue, May 26, 2020</string>
+    <string name="date3_Sum2k20">Sat, June 27, 2020</string>
+    <string name="date4_Sum2k20">Mon, June 29, 2020</string>
+    <string name="date5_Sum2k20">Fri, July 3, 2020</string>
+    <string name="date6_Sum2k20">Sat, Aug 1, 2020</string>
+    <string name="date7_Sum2k20">Tue, Aug 4, 2020</string>
+
+
+    <!-- Summer 2k20 event details -->
+    <string name="event1_Sum2k20">Memorial Day - Campus holiday</string>
+    <string name="event2_Sum2k20">10-week session and 1st 5-week session classes begin</string>
+    <string name="event3_Sum2k20">1st 5-week session ends</string>
+    <string name="event4_Sum2k20">2nd 5-week session classes begin</string>
+    <string name="event5_Sum2k20">Independence Day - Camous holiday</string>
+    <string name="event6_Sum2k20">10-week and 2nd 5-week sessions end</string>
+    <string name="event7_Sum2k20">All final grades due to Registrar </string>
+
+    <!-- Fall 2k20 date details  -->
+
+    <string name="date1_Fall2k20">Mon, Aug 24, 2020</string>
+    <string name="date2_Fall2k20">Mon, Sept 7,2020</string>
+    <string name="date3_Fall2k20">Mon, Sept 14,2020</string>
+    <string name="date4_Fall2k20">Thur - Sat, Nov 26 - 28, 2020</string>
+    <string name="date5_Fall2k20">Sat, Dec 5, 2020</string>
+    <string name="date6_Fall2k20">Mon - Sat, Dec 7 - Dec 12, 2020</string>
+    <string name="date7_Fall2k20">Tue, Dec 15, 2020</string>
+    <string name="date8_Fall2k20">Thur, Dec 17, 2020</string>
+    <string name="date9_Fall2k20">Fri, Dec 18, 2020</string>
+
+
+    <!-- Fall 2k20 event details -->
+    <string name="event1_Fall2k20">All Regular session classes begin</string>
+    <string name="event2_Fall2k20">Labor day - Campus holiday</string>
+    <string name="event3_Fall2k20">Special Session classes begin</string>
+    <string name="event4_Fall2k20">Thanksgiving - Campus holiday</string>
+    <string name="event5_Fall2k20">Last day of classes</string>
+    <string name="event6_Fall2k20">Final Exam period</string>
+    <string name="event7_Fall2k20">Final grades due to Registrar</string>
+    <string name="event8_Fall2k20">Commencement Cermony</string>
+    <string name="event9_Fall2k20">All Fall session ends</string>
+
+
+    <!-- Spring 2k21 details  -->
+    <string name="date1_Spring2k21">Wed, Dec 16, 2020</string>
+    <string name="date2_Spring2k21">Sat, Jan 9, 2021</string>
+    <string name="date3_Spring2k21">Mon, Jan 11, 2021</string>
+    <string name="date4_Spring2k21">Mon, Jan 18, 2021</string>
+    <string name="date5_Spring2k21">Mon, Feb 1, 2021</string>
+    <string name="date6_Spring2k21">Mon, Feb 15, 2021</string>
+    <string name="date7_Spring2k21">Mon - Sat, Mar 15 - 20, 2021</string>
+    <string name="date8_Spring2k21">Sat, May 1, 2021</string>
+    <string name="date9_Spring2k21">Mon - Sat, May 3 - 8, 2021</string>
+    <string name="date10_Spring2k21">Tue, May 11, 2021</string>
+    <string name="date11_Spring2k21">Thur, May 13, 2021</string>
+    <string name="date12_Spring2k21">Fri, May 14, 2021</string>
+
+    <!-- Spring 2k21 event details -->
+    <string name="event1_Spring2k21">Intersession classes begin</string>
+    <string name="event2_Spring2k21">Intersession classes end</string>
+    <string name="event3_Spring2k21">All Regular session classes begin</string>
+    <string name="event4_Spring2k21">ML King Day - Campus holiday</string>
+    <string name="event5_Spring2k21">Special Session classes begin</string>
+    <string name="event6_Spring2k21">President\'s Day - Campus holiday</string>
+    <string name="event7_Spring2k21">Spring Break ( no classes) </string>
+    <string name="event8_Spring2k21">Last day of classes</string>
+    <string name="event9_Spring2k21">Final Exam period</string>
+    <string name="event10_Spring2k21">Final grades due to Registrar</string>
+    <string name="event11_Spring2k21">Commencement Cermony</string>
+    <string name="event12_Spring2k21">All Spring session ends</string>
+
+
+    <!-- Summer 2k21 details  -->
+    <string name="date1_Sum2k21">Mon, May 31, 2021</string>
+    <string name="date2_Sum2k21">Tue, June 1, 2021</string>
+    <string name="date3_Sum2k21">Sat, July 3, 2021</string>
+    <string name="date4_Sum2k21">Mon, July 5, 2021</string>
+    <string name="date5_Sum2k21">Tue, July 6, 2021</string>
+    <string name="date6_Sum2k21">Sat, Aug 7, 2021</string>
+    <string name="date7_Sum2k21">Tue, Aug 10, 2021</string>
+
+
+    <!-- Summer 2k21 event details -->
+    <string name="event1_Sum2k21">Memorial Day - Campus holiday</string>
+    <string name="event2_Sum2k21">10-week session and 1st 5-week session classes begin</string>
+    <string name="event3_Sum2k21">1st 5-week session ends</string>
+    <string name="event4_Sum2k21">2nd 5-week session classes begin</string>
+    <string name="event5_Sum2k21">Independence Day - Camous holiday</string>
+    <string name="event6_Sum2k21">10-week and 2nd 5-week sessions end</string>
+    <string name="event7_Sum2k21">All final grades due to Registrar </string>
+
+    <string name="linktoSite"><a href="https://accounts.google.com/servicelogin?">GMail.com</a></string>
+
+
+</resources>

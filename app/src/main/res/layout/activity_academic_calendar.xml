@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AcademicCalendarActivity">
+
+    <TextView
+        android:id="@+id/fall2k20"
+        style="@style/CategoryStyle"
+        android:text="@string/calendar_Fall2k20"
+        />
+
+    <TextView
+        android:id="@+id/fall2k19"
+        style="@style/CategoryStyle"
+        android:text="@string/calendar_Fall2k19" />
+
+    <TextView
+        android:id="@+id/fall2k18"
+        style="@style/CategoryStyle"
+        android:text="@string/calendar_Fall2k18" />
+
+    <TextView
+        android:id="@+id/fall2k17"
+        style="@style/CategoryStyle"
+        android:text="@string/calendar_Fall2k17" />
+
+</LinearLayout>

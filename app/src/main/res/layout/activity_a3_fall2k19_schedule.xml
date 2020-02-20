@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    tools:context=".A3Fall2k19ScheduleActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvA3FallTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Class Schedule Listing"
+                android:layout_margin="25dp"
+                android:textStyle="bold"
+                android:gravity="center"/>
+
+
+            <!--1st Subject-->
+
+            <TextView
+                android:id="@+id/tvA3FallSub1Title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold">
+            </TextView>
+
+            <TextView
+                android:id="@+id/tvA3FallSub1Desc1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </TextView>
+
+            <TextView
+                android:id="@+id/tvA3FallSub1Desc2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </TextView>
+
+            <!-- 2nd Subject-->
+
+            <TextView
+                android:id="@+id/tvA3FallSub2Title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold">
+            </TextView>
+
+            <TextView
+                android:id="@+id/tvA3FallSub2Desc1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </TextView>
+
+            <TextView
+                android:id="@+id/tvA3FallSub2Desc2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </TextView>
+
+
+            <!--3rd Subject-->
+
+            <TextView
+                android:id="@+id/tvA3FallSub3Title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold">
+            </TextView>
+
+            <TextView
+                android:id="@+id/tvA3FallSub3Desc1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </TextView>
+
+            <TextView
+                android:id="@+id/tvA3FallSub3Desc2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </TextView>
+
+            <!--4th Subject-->
+
+            <TextView
+                android:id="@+id/tvA3FallSub4Title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold">
+            </TextView>
+
+            <TextView
+                android:id="@+id/tvA3FallSub4Desc1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </TextView>
+
+            <TextView
+                android:id="@+id/tvA3FallSub4Desc2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </TextView>
+
+            <!--5th Subject-->
+
+            <TextView
+                android:id="@+id/tvA3FallSub5Title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold">
+            </TextView>
+
+            <TextView
+                android:id="@+id/tvA3FallSub5Desc1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </TextView>
+
+            <TextView
+                android:id="@+id/tvA3FallSub5Desc2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </TextView>
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

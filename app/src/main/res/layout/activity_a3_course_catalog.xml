@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".A3CourseCatalog">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="20dp">
+
+    <TextView
+        android:id="@+id/tvCourseDescTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:text="\n\nCourse Description\n"/>
+
+    <TextView
+        android:id="@+id/tvCourseTitle1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvCourseDescTitle"
+        android:textStyle="bold"
+        android:layout_alignParentLeft="true"/>
+
+    <TextView
+        android:id="@+id/tvCourseDesc1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvCourseTitle1" />
+
+    <TextView
+        android:id="@+id/tvCourseTitle2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_below="@id/tvCourseDesc1"/>
+
+    <TextView
+        android:id="@+id/tvCourseDesc2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvCourseTitle2" />
+
+    <TextView
+        android:id="@+id/tvCourseTitle3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_below="@id/tvCourseDesc2"/>
+
+    <TextView
+        android:id="@+id/tvCourseDesc3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvCourseTitle3" />
+
+    <TextView
+        android:id="@+id/tvCourseTitle4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_below="@id/tvCourseDesc3" />
+
+    <TextView
+        android:id="@+id/tvCourseDesc4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvCourseTitle4" />
+
+    <TextView
+        android:id="@+id/tvCourseTitle5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_below="@id/tvCourseDesc4" />
+
+    <TextView
+        android:id="@+id/tvCourseDesc5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvCourseTitle5"/>
+
+    <TextView
+        android:id="@+id/tvCourseTitle6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_below="@id/tvCourseDesc5" />
+
+    <TextView
+        android:id="@+id/tvCourseDesc6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvCourseTitle6"/>
+
+    <TextView
+        android:id="@+id/tvCourseTitle7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_below="@id/tvCourseDesc6" />
+
+    <TextView
+        android:id="@+id/tvCourseDesc7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvCourseTitle7"/>
+
+    <TextView
+        android:id="@+id/tvCourseTitle8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_below="@id/tvCourseDesc7" />
+
+    <TextView
+        android:id="@+id/tvCourseDesc8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvCourseTitle8"/>
+
+    <TextView
+        android:id="@+id/tvCourseTitle9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_below="@id/tvCourseDesc8" />
+
+    <TextView
+        android:id="@+id/tvCourseDesc9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvCourseTitle9"/>
+
+    <TextView
+        android:id="@+id/tvCourseTitle10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_below="@id/tvCourseDesc9" />
+
+    <TextView
+        android:id="@+id/tvCourseDesc10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvCourseTitle10"/>
+
+
+    </LinearLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

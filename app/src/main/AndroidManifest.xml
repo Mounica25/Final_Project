@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.ss">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".A3MyClassScheduleActivity" />
+        <activity
+            android:name=".A3Summer2k20ScheduleActivity"
+            android:label="Summer 2020 Schedule"
+            android:parentActivityName=".A3ClassScheduleActivity" />
+        <activity
+            android:name=".A3Spring2k20ScheduleActivity"
+            android:label="Spring 2020 Schedule"
+            android:parentActivityName=".A3ClassScheduleActivity" />
+        <activity
+            android:name=".A3Fall2k19ScheduleActivity"
+            android:label="Fall 2019 Schedule"
+            android:parentActivityName=".A3ClassScheduleActivity" />
+        <activity
+            android:name=".A3ClassScheduleActivity"
+            android:label="A3 Class Schedule"
+            android:parentActivityName=".QuickLinksActivity" />
+        <activity
+            android:name=".A3CourseCatalog"
+            android:label="A3 Course Catalog"
+            android:parentActivityName=".QuickLinksActivity" />
+        <activity
+            android:name=".Fall2k20Activity"
+            android:label="@string/calendar_Fall2k20"
+            android:parentActivityName=".AcademicCalendarActivity" />
+        <activity
+            android:name=".Fall2k19Activity"
+            android:label="@string/calendar_Fall2k19"
+            android:parentActivityName=".AcademicCalendarActivity" />
+        <activity
+            android:name=".Fall2k18Activity"
+            android:label="@string/calendar_Fall2k18"
+            android:parentActivityName=".AcademicCalendarActivity" />
+        <activity
+            android:name=".Fall2k17Activity"
+            android:label="@string/calendar_Fall2k17"
+            android:parentActivityName=".AcademicCalendarActivity" />
+        <activity
+            android:name=".AcademicCalendarActivity"
+            android:label="Academic Calendar"
+            android:parentActivityName=".QuickLinksActivity" />
+        <activity
+            android:name=".ParkingActivity"
+            android:label="Parking System"
+            android:parentActivityName=".AuxillaryServicesActivity" />
+        <activity
+            android:name=".ConvocationCenterActivity"
+            android:label="Convocation Center"
+            android:parentActivityName=".AuxillaryServicesActivity" />
+        <activity
+            android:name=".AuxillaryServicesActivity"
+            android:label="Auxillary Services"
+            android:parentActivityName=".StudentResourcesActivity" />
+        <activity
+            android:name=".SexualAssaultActivity"
+            android:label="Sexual Assault Policy "
+            android:parentActivityName=".EmergencyActivity" />
+        <activity
+            android:name=".CounsellingCenterActivity"
+            android:label="Counselling Center"
+            android:parentActivityName=".EmergencyActivity" />
+        <activity
+            android:name=".PoliceDepartmentActivity"
+            android:label="Police Department"
+            android:parentActivityName=".EmergencyActivity" />
+        <activity
+            android:name=".ExaminationsActivity"
+            android:label="Examinations"
+            android:parentActivityName=".QuickLinksActivity" />
+        <activity
+            android:name=".UpdatePassword"
+            android:label="Update Password"
+            android:parentActivityName=".ProfileActivity" />
+        <activity
+            android:name=".UpdateProfileActivity"
+            android:label="Update Profile"
+            android:parentActivityName=".ProfileActivity" />
+        <activity
+            android:name=".ProfileActivity"
+            android:label="My Profile"
+            android:parentActivityName=".HomepageActivity" />
+        <activity
+            android:name=".EmergencyActivity"
+            android:label="Emergency"
+            android:parentActivityName=".HomepageActivity" />
+        <activity
+            android:name=".MyInfoActivity"
+            android:label="My Info"
+            android:parentActivityName=".HomepageActivity" />
+        <activity
+            android:name=".QuickLinksActivity"
+            android:label="Quick Links"
+            android:parentActivityName=".HomepageActivity" />
+        <activity
+            android:name=".StudentResourcesActivity"
+            android:label="Student Resources"
+            android:parentActivityName=".HomepageActivity" />
+        <activity
+            android:name=".ForgotPasswordActivity"
+            android:label="Password Reset" />
+        <activity
+            android:name=".ui.login.LoginActivity"
+            android:label="@string/title_activity_login" />
+        <activity
+            android:name=".RegistrationActivity"
+            android:label="A3 Registration" />
+        <activity android:name=".HomepageActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
